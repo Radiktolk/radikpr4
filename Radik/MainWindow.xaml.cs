@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Radik-227_4
+namespace Radik_227_4
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
