@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace kochergin_225_4
+namespace Radik-227_4
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
