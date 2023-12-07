@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radik-227-4", "Radik-2275-4\"Radik-227-4.csproj", "{45628EA4-5A05-4414-9CDB-40324533679E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radik-227-4", "Radik-227-4\"Radik-227-4.csproj", "{45628EA4-5A05-4414-9CDB-40324533679E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2", "2\2.csproj", "{279B4222-F75A-4075-AF1A-5D10F45F7F56}"
 EndProject
